@@ -11,7 +11,7 @@ body {
 
 @media only screen and (max-width: 600px) {
     .layout {
-        background-image: url("../public/main-m.png");
+        background-image: url("https://lh3.googleusercontent.com/05LAXJkwo_uIzMxzi7mSdZrne1No79b8-5bQS3pncnE5iYlDqacFgJBi_-Xh-yXp39l93Gx9VZa2OBZzNfOatKV2OwuN9uW7LQRjzhPT-BYG_ZNdWkgTMiCSM2gsU3ZNTE8CYJiaKkFNxMp0UYrXBptCxSRfoMGCP3svm_peyostf4CICS9JPyzFm6vi2M9m8jvtFI55WbBSf0HZQ2rWdpI9YT2pCjSFtZm4dmqkOX7i78cwSliVIohmI1-tNS-vkiRja-9FHxFV9TNXyDN0s6jy0iicrJHS37q8kOLkkno_PYSoBa4_8JvV4MDPx1u6UqNSx7kQfiYvPJo8v2udrV-_Z6KaajSqF3sFZv8jAdzmoJ59ODHYC4Hl2WAh_2O7oGYYNJwn3xUf8jyg4RHscPiSyHfvt2zjSXrHsQbTDjh6Tb08wy4M8WCjzBuTo44YSH3-cXNePn8io4SOtQeE750wX951_4I8frAcLtXPSlOtTcKmrmbrU7ucQMibu2n3fLXTBUe6hoNMmo56ZrYQNNnobVl5Z0p6ndyFYu-AxqceUxe8qhG8TrTkTHjAerQiBtQJ5jiYfRUxSSCGZpfB_tr_Dr-ZGU-blZ6hGf7G6TsBINMQUwb9BgwgNwfI88nAyp3biHW7uQyux7oz99owZxoC-LYooV4J0hJQkue2rBuIju0EEPGznC98UrbwnqfUvb-N2qVlLf1jNwj4ol1omZPB=w720-h948-no?authuser=0");
         background-size: cover;
         background-position: center;
         height: 100%;
@@ -64,7 +64,7 @@ body {
 
 @media only screen and (min-width: 601px) {
     .layout {
-        background-image: url("../public/main.png");
+        background-image: url("https://lh3.googleusercontent.com/zGCmYLajkxAKlAmAKpz_W2XTOvqMjdkjZAAuW6zc0dx9ErmAn-rPHaCMQR6C3XibdKQnljHKXRsqJ9hev8he6myFIlzVGI-n4viAGK55fq2QXB9HSe64N_3n47WcSRzzjbF5PUsi2LCLm0lLm8lEmxrUS_YLEfgyJDLdUtrk2sskswrOQdjndbDmk0OXIUvX5IC40ahw6KVLv-K6-vqbhW2Bfrdts68pIpfsmqxCfhQwo4CWiCPYvkYUSazT0IVyhdvKsRoIMm9pt-mj4H1vE3N8MkkKAXn1_GsIAT7K4DZNUsljwGN-2lq-PQlMOTxIeBDcZq03HVQOxF1baGnZmC7LREK7B_ylixTm-Uteb6FGpwFdbAXQ6g95oMNC-SSIp6F6M45Ia3um5m-xPQ9On89XQa9j-OjOvx1V9Oz62BO2A6wtLUurHrap0Y7vNOTlTPLVA3lXKMQgDVkZaWSc6umA8vBClvDzC1GRLfcTVCYEYsO1IbReC9hELjWKTZV9Gssn6RfCLV8DSFcemXhBGphqdWgraP5220onfwn00mfhrWscY4w164E-qZ1cEvgZwRwITT5juBC9rjEpc6Kdnh1OfbPpNrOBljppmfy7pLj8hA42GV6YyANhOkfUQSoYGq2kJofn1fDv_FrgltUZOfmbcmHfInbQSUts-bCa_u47mepR-f9vJRVeA3dsbtfo2Ws1hl03U2eGgaKhLSe_dYdQ=w953-h636-no?authuser=0");
         background-size: cover;
         background-position: center;
         height: 100%;
